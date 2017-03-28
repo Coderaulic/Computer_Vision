@@ -9,7 +9,7 @@
 Projects created in Computer Vision course
 
 - <b><a href="https://github.com/Coderaulic/Computer_Vision/tree/master/Program1">
-Linear Transformation</a></b>: Apply linear algebra concepts to transform an image
+Linear Transformation</a></b>: Applying linear algebra concepts to transform an image
 - <b><a href="https://github.com/Coderaulic/Computer_Vision/tree/master/Program2">
 Linear Filtering and Edge Detection</a></b>: Implement linear filtering and edge detection, observe the differences in smoothing
 - <b><a href="https://github.com/Coderaulic/Computer_Vision/tree/master/Program3">
