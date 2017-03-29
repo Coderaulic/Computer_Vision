@@ -19,10 +19,10 @@ For further information on the general idea, see: <a href="http://en.wikipedia.o
 2) Use a <a href="https://en.wikipedia.org/wiki/Color_histogram">color histogram</a> to find the most common color in the foreground image.<br>
 The histogram should be a three-dimensional matrix of integers. 
    - int dims[] = {size, size, size};&emsp;&emsp;&nbsp;&emsp;&emsp;&nbsp;&emsp;&emsp;&nbsp;&emsp;&emsp;&nbsp;// size is a constant - the # of buckets in each dimension<br>
-     Mat hist(3, dims, CV_32S, Scalar::all(0)); &emsp;&emsp;&nbsp;&emsp;&nbsp;&nbsp;// 3D histogram of integers initialized to zero<br>
-   - To create the histogram, loop through the foreground image and assign each pixel to a histogram bucket. 
-     That bucket should be incremented by one. To decide which bucket to increment, you divide the color value by (256/size):
-      - int bucketSize = 256/size;
+Mat hist(3, dims, CV_32S, Scalar::all(0)); &emsp;&emsp;&nbsp;&emsp;&nbsp;&nbsp;// 3D histogram of integers initialized to zero<br>
+   - To create the histogram, loop through the foreground image and assign each pixel to a histogram bucket.<br>
+     That bucket should be incremented by one. To decide which bucket to increment, you divide the color value by (256 / size):
+      - int bucketSize = 256 / size;
       - int r = red / bucketSize;
       - int g = green / bucketSize;
       - int b = blue / bucketSize;
