@@ -13,6 +13,6 @@ Linear Transformation</a></b>: Applying linear algebra concepts to transform an 
 - <b><a href="https://github.com/Coderaulic/Computer_Vision/tree/master/Program2">
 Linear Filtering and Edge Detection</a></b>: Implement linear filtering and edge detection, observe changes in smoothing
 - <b><a href="https://github.com/Coderaulic/Computer_Vision/tree/master/Program3">
-Color Histogram</a></b>: Compute a color histogram and overlay matching colors of an image's forground
+Color Histogram</a></b>: Compute a color histogram and overlay matching colors of an image's background
 - <b><a href="https://github.com/Coderaulic/Computer_Vision/tree/master/Program4">
 Optimizing Neural Networks</a></b>: Optimizing Neural Networks using deformable parts model
