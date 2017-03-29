@@ -8,7 +8,7 @@ Author:&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Ryu Muthui<br>
 Description:&emsp;&nbsp;Implement linear filtering and edge detection, observe changes in smoothing
 ==============================================================================<br>
 
-## <a href="https://github.com/Coderaulic/Computer_Vision/blob/master/Program1/Program2.cpp">Linear Filtering and Edge Detection</a>:
+## <a href="https://github.com/Coderaulic/Computer_Vision/blob/master/Program2/Program2.cpp">Linear Filtering and Edge Detection</a>:
 
 <strong>Goal</strong>:<br> Implement linear filtering and edge detection and observe the differences in edge detection for different levels of smoothing.
 Note that all of the computations in this program will use greyscale images (not color), so it will use the “grey” byte,
