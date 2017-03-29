@@ -42,7 +42,7 @@ Program flow:<br>
 Original Image:<br>
 ![original](https://cloud.githubusercontent.com/assets/10789046/24434121/625db934-13e2-11e7-9501-193877fad73f.jpg)<br>
 
-Smoothing Applied at x0, x2, x5, x10:<br>
+Smoothing Applied @ x0, x2, x5, x10:<br>
 ![smooth0](https://cloud.githubusercontent.com/assets/10789046/24434198/f0a4f64e-13e2-11e7-9f54-80e53ba5d3c2.jpg)
 ![smooth2](https://cloud.githubusercontent.com/assets/10789046/24434196/f0a3781e-13e2-11e7-918f-af9797f14e72.jpg)
 ![smooth5](https://cloud.githubusercontent.com/assets/10789046/24434197/f0a47692-13e2-11e7-8fe5-4f1d7bdef0b4.jpg)
@@ -53,7 +53,7 @@ Gradient Magnitude Images of Gmag, Gx, Gy:<br>
 ![gx](https://cloud.githubusercontent.com/assets/10789046/24434292/87a6449e-13e3-11e7-9c3e-962960717114.jpg)
 ![gy](https://cloud.githubusercontent.com/assets/10789046/24434293/87c3cf6e-13e3-11e7-82ca-074a1b8cbd1e.jpg)
 
-Edge detection at x0, x2, x5, x10:<br>
+Edge Detection @ x0, x2, x5, x10:<br>
 ![edges0](https://cloud.githubusercontent.com/assets/10789046/24434375/f79dffa8-13e3-11e7-8339-29c2c6286f2b.jpg)
 ![edges2](https://cloud.githubusercontent.com/assets/10789046/24434376/f7a116fc-13e3-11e7-82fa-1873dbdf58ad.jpg)
 ![edges5](https://cloud.githubusercontent.com/assets/10789046/24434377/f7a375aa-13e3-11e7-8a55-7235c959588d.jpg)
