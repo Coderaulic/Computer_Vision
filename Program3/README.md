@@ -38,9 +38,9 @@ column, unless the background image is too small). If the background image is to
 start of the background image. Display the resulting image on the screen.
 
 Foreground Image:<br>
-![foreground](https://cloud.githubusercontent.com/assets/10789046/24435244/fb87c6b2-13e8-11e7-874a-352386416e80.jpg)
+![foreground](https://cloud.githubusercontent.com/assets/10789046/24435244/fb87c6b2-13e8-11e7-874a-352386416e80.jpg)<br>
 Background Image:<br>
-![background](https://cloud.githubusercontent.com/assets/10789046/24435246/fb8ee6c2-13e8-11e7-9389-633ea6bb05c2.jpg)
+![background](https://cloud.githubusercontent.com/assets/10789046/24435246/fb8ee6c2-13e8-11e7-9389-633ea6bb05c2.jpg)<br>
 Combined Results:<br>
 ![overlay](https://cloud.githubusercontent.com/assets/10789046/24435245/fb8de592-13e8-11e7-82e4-c68bc825304f.jpg)
 
