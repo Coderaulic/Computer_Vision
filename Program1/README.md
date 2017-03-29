@@ -28,19 +28,20 @@ Or, more simply:<br>
 where:<br>
 ![equation3](https://cloud.githubusercontent.com/assets/10789046/24430464/9640e6c0-13cb-11e7-8cc2-1b15edafa3bf.jpg)
 
-You are to write a program that takes these six parameters (sx, sy, tx, ty, θ, and k) as input from the
-batch file (in that order) and transforms an image according to the parameters. The output image
-should have the same dimensions as the input image. Any point in the output image that doesn’t
-have a corresponding point in the input image should be black.
+You are to write a program that takes these six parameters (sx, sy, tx, ty, θ, and k) as input 
+and transforms an image according to the parameters. The output image should have the same dimensions as the input image.
+Any point in the output image that doesn’t have a corresponding point in the input image should be black.
 
 Original Image:<br>
 ![original image](https://cloud.githubusercontent.com/assets/10789046/24432517/acbcce26-13d7-11e7-927f-b37c1f28f4b5.jpg)<br>
 
-Images with [20 degree rotation to right] and [shear by 0.5]:<br>
+[20 degree rotation to right]&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;
+[shear by 0.5]
 ![rotation20](https://cloud.githubusercontent.com/assets/10789046/24432521/acce3dbe-13d7-11e7-9b80-8ffd2599983a.jpg)
 ![shear0 5](https://cloud.githubusercontent.com/assets/10789046/24432522/acd2c0be-13d7-11e7-803c-789a4323e963.jpg)<br>
 <br>
-Images with [20x40 pixels translation] and [scale by x1.5]:<br>
+[20x40 pixels translation]&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;
+[scale by x1.5]
 ![translation20x40y](https://cloud.githubusercontent.com/assets/10789046/24432520/accded96-13d7-11e7-9eee-64ecc1afeaec.jpg)
 ![scale1 5](https://cloud.githubusercontent.com/assets/10789046/24432519/accce9c8-13d7-11e7-9cb6-b6171be998e7.jpg)<br>
 
